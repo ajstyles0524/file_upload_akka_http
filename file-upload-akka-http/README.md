@@ -11,10 +11,10 @@ sbt test
 
  hit "http://localhost:9000/fileupload" 
 
-For Example (Postman):
+For Example - 
 
-![Postman Call](docs/images/postman-call.png)
 
+recent:///3e81d214cf4d196f5db3c92962d7aef3
 
 
 
